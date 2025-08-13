@@ -1,0 +1,1 @@
+MONGOURI="mongodb+srv://chandukopparthy:281204@cluster0.1u0vldl.mongodb.net/task-prioritizer?retryWrites=true&w=majority&appName=Cluster0"
